@@ -1,0 +1,21 @@
+{
+  "name": "tw-extension",
+  "version": "1.0.0",
+  "description": "This is a VERY WIP TurboWarp extension port of KatnipScratch.",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatnipScratch/tw-extension.git"
+  },
+  "keywords": [],
+  "author": "Miyo Sho (https://github.com/yuri-kiss/)",
+  "license": "MPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/KatnipScratch/tw-extension/issues"
+  },
+  "homepage": "https://github.com/KatnipScratch/tw-extension#readme",
+  "dependencies": {
+    "@turbowarp/types": "github:TurboWarp/types-tw#tw"
+  }
+}
