@@ -1,6 +1,6 @@
 # tw-extension
 
-This is a VERY WIP TurboWarp extension port of KatnipScratch.
+This is a VERY WIP TurboWarp extension port of KatnipSC.
 
 Expect very broken and buggy code with lots of breaking changes.
 
